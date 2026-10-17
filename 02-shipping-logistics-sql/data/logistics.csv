@@ -1,0 +1,6 @@
+Order_ID,Customer_ID,Ship_Mode,City,Category,Sales,Discount
+1001,C-01,Standard,London,Electronics,450,0.1
+1002,C-02,Express,Manchester,Furniture,1200,0.2
+1003,C-03,Standard,London,Office Supplies,85.5,0
+1004,C-01,Express,Birmingham,Electronics,600,0.05
+1005,C-04,Standard,Bristol,Furniture,320,0.1
